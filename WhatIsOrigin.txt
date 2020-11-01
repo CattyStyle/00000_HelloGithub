@@ -1,0 +1,5 @@
+<参考URL>https://qiita.com/seri1234/items/e651b3e108a695a92809
+
+
+<まず>Originとは、現在使っているローカルリポジトリと紐づいているリモートリポジトリのこと
+<だから>git push origin "branchName"　は、現在対象としているリモートリポジトリのbranchNameにプッシュするよって意味
